@@ -35,7 +35,7 @@ The business wants to understand how customer demographics, subscriptions, disco
 
 📊 Dataset
 
-    Customer Shopping Behavior Dataset containing:
+    Customer Shopping Behavior Dataset containing: 
     
     Customer demographics (Age, Gender)
     
