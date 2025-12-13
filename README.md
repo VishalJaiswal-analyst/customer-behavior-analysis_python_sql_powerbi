@@ -23,13 +23,13 @@ The business wants to understand how customer demographics, subscriptions, disco
 
 🔍 Key Business Questions
 
-How does revenue vary across age groups and gender?
-
-Do subscription models increase total revenue?
-
-Which shipping methods drive higher spending?
-
-Which products perform best within each category?
+    How does revenue vary across age groups and gender?
+    
+    Do subscription models increase total revenue?
+    
+    Which shipping methods drive higher spending?
+    
+    Which products perform best within each category?
 
 ---
 
@@ -47,57 +47,59 @@ Subscription status and shipping type
 
 Discount usage and previous purchases
 
+https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/customer_shopping_behavior.csv
+
 ---
 
 🛠 Tools & Technologies
 
-Python (Pandas): Data cleaning, preprocessing, feature engineering
-
-SQL (MySQL): Business queries and customer segmentation
-
-Power BI: Interactive dashboard and KPI visualization
-
-GitHub: Version control and project hosting
+    Python (Pandas): Data cleaning, preprocessing, feature engineering
+    
+    SQL (MySQL): Business queries and customer segmentation
+    
+    Power BI: Interactive dashboard and KPI visualization
+    
+    GitHub: Version control and project hosting
 
 ---
 
 🔧 Methodology
 
-Cleaned and preprocessed raw data using Python
-
-Created age groups and customer segments
-
-Loaded structured data into SQL for analysis
-
-Built an interactive Power BI dashboard with filters and KPIs
+    Cleaned and preprocessed raw data using Python
+    
+    Created age groups and customer segments
+    
+    Loaded structured data into SQL for analysis
+    
+    Built an interactive Power BI dashboard with filters and KPIs
 
 ---
 
 💡 Key Insights
 
-Young Adults generate the highest revenue
-
-Express Shipping users spend more on average
-
-Subscribers contribute higher total revenue
-
-Gloves, Sandals, and Boots receive the highest ratings
-
-Loyal customers exist, but subscription conversion is low
+    Young Adults generate the highest revenue
+    
+    Express Shipping users spend more on average
+    
+    Subscribers contribute higher total revenue
+    
+    Gloves, Sandals, and Boots receive the highest ratings
+    
+    Loyal customers exist, but subscription conversion is low
 
 ---
 
 📈 Dashboard / Output
 
-The Power BI dashboard includes:
-
-KPI cards (Total Customers, Avg Spend, Avg Rating)
-
-Revenue by Age Group and Category
-
-Subscription and Shipping analysis
-
-Interactive slicers for deeper exploration
+    The Power BI dashboard includes:
+    
+    KPI cards (Total Customers, Avg Spend, Avg Rating)
+    
+    Revenue by Age Group and Category
+    
+    Subscription and Shipping analysis
+    
+    Interactive slicers for deeper exploration
 
 📁 Dashboard 
 
@@ -110,11 +112,11 @@ git clone https://github.com/yourusername/customer-behavior-analysis.git
 pip install pandas sqlalchemy psycopg2
 
 
-Run data_cleaning.ipynb
-
-Load cleaned data into SQL
-
-Open dashboard.pbix and refresh
+    Run data_cleaning.ipynb
+    
+    Load cleaned data into SQL
+    
+    Open dashboard.pbix and refresh
 
 ---
 
