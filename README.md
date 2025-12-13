@@ -47,7 +47,7 @@ The business wants to understand how customer demographics, subscriptions, disco
     
     Discount usage and previous purchases
 
-    https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/customer_shopping_behavior.csv
+https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/customer_shopping_behavior.csv
 
 ---
 
