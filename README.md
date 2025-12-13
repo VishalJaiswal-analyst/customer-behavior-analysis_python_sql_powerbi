@@ -99,7 +99,9 @@ Subscription and Shipping analysis
 
 Interactive slicers for deeper exploration
 
-📁 Dashboard screenshots are available in the output/ folder.
+📁 Dashboard 
+
+https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/snapshot_of_dashboard.png
 
 ---
 
@@ -129,5 +131,7 @@ Time-based sales forecasting
 👤 Author & Contact
 
 Vishal Jaiswal
+
 LinkedIn: Add your LinkedIn link
+
 Email: vishal.jaiswal.data@gmail.com
