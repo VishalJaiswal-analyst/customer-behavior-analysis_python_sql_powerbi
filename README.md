@@ -4,20 +4,20 @@
 
 End-to-End Retail Analytics Project | Python • SQL • Power BI
 
-    An end-to-end data analytics project focused on customer segmentation and revenue trend analysis using Python, SQL, and Power BI.
+An end-to-end data analytics project focused on customer segmentation and revenue trend analysis using Python, SQL, and Power BI.
 
 ---
 
 📖 Overview
 
-    This project analyzes customer shopping behavior to help a retail business optimize sales strategies, improve customer retention, and enhance marketing effectiveness.
-    The workflow covers data cleaning in Python, business analysis using SQL, and visualization through an interactive Power BI dashboard.
+This project analyzes customer shopping behavior to help a retail business optimize sales strategies, improve customer retention, and enhance marketing effectiveness.
+The workflow covers data cleaning in Python, business analysis using SQL, and visualization through an interactive Power BI dashboard.
 
 ---
 
 ❓ Problem Statement
 
-    The business wants to understand how customer demographics, subscriptions, discounts, and shipping methods     influence purchasing decisions and overall revenue.
+The business wants to understand how customer demographics, subscriptions, discounts, and shipping methods     influence purchasing decisions and overall revenue.
 
 ---
 
@@ -103,15 +103,15 @@ End-to-End Retail Analytics Project | Python • SQL • Power BI
 
 📁 Dashboard 
 
-    https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/snapshot_of_dashboard.png
+https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/snapshot_of_dashboard.png
 
 ---
 
 ▶️ How to Run This Project
 
-    git clone https://github.com/yourusername/customer-behavior-analysis.git
-    pip install pandas sqlalchemy psycopg2
+git clone https://github.com/yourusername/customer-behavior-analysis.git 
 
+pip install pandas sqlalchemy psycopg2
 
     Run data_cleaning.ipynb
     
@@ -135,6 +135,6 @@ End-to-End Retail Analytics Project | Python • SQL • Power BI
 
     Vishal Jaiswal
     
-    LinkedIn: Add your LinkedIn link
+LinkedIn: Add your LinkedIn link
     
-    Email: vishal.jaiswal.data@gmail.com
+Email: vishal.jaiswal.data@gmail.com
