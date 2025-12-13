@@ -4,50 +4,50 @@
 
 End-to-End Retail Analytics Project | Python • SQL • Power BI
 
-An end-to-end data analytics project focused on customer segmentation and revenue trend analysis using Python, SQL, and Power BI.
+    An end-to-end data analytics project focused on customer segmentation and revenue trend analysis using Python, SQL, and Power BI.
 
 ---
 
 📖 Overview
 
-This project analyzes customer shopping behavior to help a retail business optimize sales strategies, improve customer retention, and enhance marketing effectiveness.
-The workflow covers data cleaning in Python, business analysis using SQL, and visualization through an interactive Power BI dashboard.
+    This project analyzes customer shopping behavior to help a retail business optimize sales strategies, improve customer retention, and enhance marketing effectiveness.
+    The workflow covers data cleaning in Python, business analysis using SQL, and visualization through an interactive Power BI dashboard.
 
 ---
 
 ❓ Problem Statement
 
-The business wants to understand how customer demographics, subscriptions, discounts, and shipping methods influence purchasing decisions and overall revenue.
+    The business wants to understand how customer demographics, subscriptions, discounts, and shipping methods     influence purchasing decisions and overall revenue.
 
 ---
 
 🔍 Key Business Questions
 
-    How does revenue vary across age groups and gender?
+    Q1. How does revenue vary across age groups and gender?
     
-    Do subscription models increase total revenue?
+    Q2. Do subscription models increase total revenue?
     
-    Which shipping methods drive higher spending?
+    Q3. Which shipping methods drive higher spending?
     
-    Which products perform best within each category?
+    Q4.  Which products perform best within each category?
 
 ---
 
 📊 Dataset
 
-Customer Shopping Behavior Dataset containing:
+    Customer Shopping Behavior Dataset containing:
+    
+    Customer demographics (Age, Gender)
+    
+    Product and category details
+    
+    Purchase amount and review ratings
+    
+    Subscription status and shipping type
+    
+    Discount usage and previous purchases
 
-Customer demographics (Age, Gender)
-
-Product and category details
-
-Purchase amount and review ratings
-
-Subscription status and shipping type
-
-Discount usage and previous purchases
-
-https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/customer_shopping_behavior.csv
+    https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/customer_shopping_behavior.csv
 
 ---
 
@@ -103,13 +103,14 @@ https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/cu
 
 📁 Dashboard 
 
-https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/snapshot_of_dashboard.png
+    https://github.com/VishalJaiswal-analyst/customer-behavior-analysis/blob/main/snapshot_of_dashboard.png
 
 ---
 
 ▶️ How to Run This Project
-git clone https://github.com/yourusername/customer-behavior-analysis.git
-pip install pandas sqlalchemy psycopg2
+
+    git clone https://github.com/yourusername/customer-behavior-analysis.git
+    pip install pandas sqlalchemy psycopg2
 
 
     Run data_cleaning.ipynb
@@ -122,18 +123,18 @@ pip install pandas sqlalchemy psycopg2
 
 🚀 Future Work
 
-Customer churn prediction using ML
-
-Market basket analysis for cross-selling
-
-Time-based sales forecasting
+    Customer churn prediction using ML
+    
+    Market basket analysis for cross-selling
+    
+    Time-based sales forecasting
 
 ---
 
 👤 Author & Contact
 
-Vishal Jaiswal
-
-LinkedIn: Add your LinkedIn link
-
-Email: vishal.jaiswal.data@gmail.com
+    Vishal Jaiswal
+    
+    LinkedIn: Add your LinkedIn link
+    
+    Email: vishal.jaiswal.data@gmail.com
