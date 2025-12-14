@@ -135,6 +135,6 @@ pip install pandas sqlalchemy psycopg2
 
     Vishal Jaiswal
     
-LinkedIn: Add your LinkedIn link
+LinkedIn: www.linkedin.com/in/vishal-jaiswal-analyst
     
 Email: vishal.jaiswal.data@gmail.com
